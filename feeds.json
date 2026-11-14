@@ -1,5 +1,5 @@
 [
-  { "name": "Formula 1 官方", "url": "https://www.formula1.com/en/latest/all.xml" },
+  { "name": "Formula 1 Official", "url": "https://www.formula1.com/en/latest/all.xml" },
   { "name": "Sky Sports F1", "url": "https://www.skysports.com/rss/12433" },
-  { "name": "Autosport 单座赛车", "url": "https://www.autosport.com/rss/category/single-seaters/news/" }
+  { "name": "Autosport Single-Seaters", "url": "https://www.autosport.com/rss/category/single-seaters/news/" }
 ]

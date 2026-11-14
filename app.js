@@ -1,5 +1,6 @@
 (() => {
   const DATA_URL = "data/news.json";
+  const ALL = "All";
   const els = {
     list: document.getElementById("list"),
     status: document.getElementById("status"),
@@ -9,12 +10,12 @@
     sourceStatus: document.getElementById("source-status"),
   };
 
-  const state = { items: [], sources: [], source: "全部", query: "" };
+  const state = { items: [], sources: [], source: ALL, query: "" };
 
-  const dateFmt = new Intl.DateTimeFormat("zh-CN", {
-    month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit",
+  const dateFmt = new Intl.DateTimeFormat("en-US", {
+    month: "short", day: "numeric", hour: "2-digit", minute: "2-digit",
   });
-  const rtf = new Intl.RelativeTimeFormat("zh-CN", { numeric: "auto" });
+  const rtf = new Intl.RelativeTimeFormat("en-US", { numeric: "auto" });
 
   function relTime(iso) {
     const diff = (Date.parse(iso) - Date.now()) / 1000;
@@ -29,7 +30,7 @@
     els.status.hidden = !msg;
   }
 
-  // 只允许 http(s) 链接，避免 javascript: 之类的注入
+  // Only allow http(s) links to prevent javascript: URLs
   function safeHref(url) {
     try {
       const u = new URL(url);
@@ -41,7 +42,7 @@
 
   function renderSourceChips() {
     els.sources.innerHTML = "";
-    for (const name of ["全部", ...state.sources]) {
+    for (const name of [ALL, ...state.sources]) {
       const btn = document.createElement("button");
       btn.type = "button";
       btn.className = "chip";
@@ -59,17 +60,17 @@
   function renderList() {
     const q = state.query.trim().toLowerCase();
     const filtered = state.items.filter((it) =>
-      (state.source === "全部" || it.source === state.source) &&
+      (state.source === ALL || it.source === state.source) &&
       (!q || it.title.toLowerCase().includes(q) || (it.summary || "").toLowerCase().includes(q))
     );
 
     els.list.innerHTML = "";
     if (!state.items.length) {
-      setStatus("暂无新闻数据。请先运行 npm run fetch 生成 data/news.json。");
+      setStatus("No news data yet. Run “npm run fetch” to generate data/news.json.");
       return;
     }
     if (!filtered.length) {
-      setStatus("没有符合条件的新闻。");
+      setStatus("No stories match your filters.");
       return;
     }
     setStatus("");
@@ -115,13 +116,13 @@
 
   function renderMeta(data) {
     if (data.updatedAt) {
-      els.updated.textContent = `更新于 ${dateFmt.format(new Date(data.updatedAt))}`;
+      els.updated.textContent = `Updated ${dateFmt.format(new Date(data.updatedAt))}`;
     }
     els.sourceStatus.innerHTML = "";
     for (const s of data.sources || []) {
       const span = document.createElement("span");
       span.className = s.ok ? "src-ok" : "src-bad";
-      span.textContent = s.ok ? `● ${s.name} (${s.count})` : `● ${s.name} 获取失败`;
+      span.textContent = s.ok ? `● ${s.name} (${s.count})` : `● ${s.name} failed to load`;
       els.sourceStatus.appendChild(span);
     }
   }
@@ -138,7 +139,7 @@
       renderList();
     } catch (err) {
       els.updated.textContent = "";
-      setStatus(`无法加载新闻数据（${err.message}）。请确认通过 HTTP 服务访问本页面。`);
+      setStatus(`Could not load news data (${err.message}). Make sure this page is served over HTTP.`);
     }
   }
 
