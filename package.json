@@ -1,0 +1,14 @@
+{
+  "name": "f1-news",
+  "version": "1.0.0",
+  "private": true,
+  "description": "汇总 F1 最新新闻的静态网站",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.mjs",
+    "serve": "python3 -m http.server 8000"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
