@@ -18,17 +18,22 @@ jobs:
         with:
           node-version: 22
 
-      - name: Fetch feeds
+      - name: Fetch news feeds
         run: npm run fetch
+        continue-on-error: true
+
+      - name: Fetch latest race results
+        run: npm run fetch:results
+        continue-on-error: true
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
+          git add data/
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "chore: update F1 news"
+            git commit -m "chore: update F1 news and results"
             git push
           fi

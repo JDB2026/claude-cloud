@@ -220,3 +220,70 @@ body {
 @media (max-width: 480px) {
   .news-title { font-size: 17px; }
 }
+
+/* Latest race results */
+.results {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-top: 4px solid var(--accent);
+  border-radius: 12px;
+  padding: 18px;
+  margin-top: 16px;
+}
+
+.eyebrow {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.race-title {
+  margin: 4px 0 2px;
+  font-size: 22px;
+  line-height: 1.3;
+}
+
+.race-meta {
+  margin: 0 0 12px;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.results-table th,
+.results-table td {
+  padding: 8px 10px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+.results-table th {
+  font-size: 12px;
+  color: var(--muted);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+}
+
+.results-table td.pos {
+  font-weight: 700;
+  width: 44px;
+}
+
+.results-table tbody tr:first-child td.pos {
+  color: var(--accent);
+}

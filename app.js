@@ -148,5 +148,50 @@
     renderList();
   });
 
+  async function loadResults() {
+    const section = document.getElementById("results");
+    try {
+      const res = await fetch("data/results.json", { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const r = await res.json();
+      if (!r.results || !r.results.length) return;
+
+      const dateStr = new Intl.DateTimeFormat("en-US", { dateStyle: "long", timeZone: "UTC" })
+        .format(new Date(`${r.date}T00:00:00Z`));
+      document.getElementById("race-title").textContent = `${r.raceName} ${r.season}`;
+      document.getElementById("race-meta").textContent =
+        `Round ${r.round} · ${r.circuit}${r.location ? ", " + r.location : ""} · ${dateStr}`;
+
+      const body = document.getElementById("results-body");
+      body.innerHTML = "";
+      const frag = document.createDocumentFragment();
+      for (const row of r.results) {
+        const tr = document.createElement("tr");
+        const cells = [
+          row.position ?? "–",
+          row.driver ? `${row.driver}` : row.code,
+          row.team,
+          row.grid === 0 ? "Pit" : row.grid ?? "–",
+          row.laps ?? "–",
+          row.time ?? row.status ?? "–",
+          row.points ?? "–",
+        ];
+        cells.forEach((value, i) => {
+          const td = document.createElement("td");
+          td.textContent = String(value);
+          if (i === 0) td.className = "pos";
+          tr.appendChild(td);
+        });
+        frag.appendChild(tr);
+      }
+      body.appendChild(frag);
+      section.hidden = false;
+    } catch {
+      // No results file yet, or the fetch failed: keep the section hidden.
+      section.hidden = true;
+    }
+  }
+
+  loadResults();
   load();
 })();
