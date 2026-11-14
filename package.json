@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "fetch": "node scripts/fetch-news.mjs",
+    "fetch:results": "node scripts/fetch-results.mjs",
     "serve": "python3 -m http.server 8000"
   },
   "engines": {
