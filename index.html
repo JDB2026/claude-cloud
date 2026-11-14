@@ -1,24 +1,24 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>F1 最新资讯</title>
-  <meta name="description" content="汇总多家媒体的 F1 最新新闻，每 30 分钟更新一次。">
+  <title>F1 Latest News</title>
+  <meta name="description" content="The latest Formula 1 news from multiple outlets, updated every 30 minutes.">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="site-header">
     <div class="wrap header-row">
-      <div class="brand"><span class="flag"></span>F1 最新资讯</div>
-      <div class="updated" id="updated">加载中…</div>
+      <div class="brand"><span class="flag"></span>F1 Latest News</div>
+      <div class="updated" id="updated">Loading…</div>
     </div>
   </header>
 
   <main class="wrap">
     <div class="toolbar">
-      <input id="search" type="search" placeholder="搜索标题或摘要…" aria-label="搜索">
-      <div id="sources" class="chips" role="group" aria-label="按来源筛选"></div>
+      <input id="search" type="search" placeholder="Search headlines or summaries…" aria-label="Search">
+      <div id="sources" class="chips" role="group" aria-label="Filter by source"></div>
     </div>
 
     <p id="status" class="status" hidden></p>
@@ -27,7 +27,7 @@
 
   <footer class="wrap footer">
     <div id="source-status"></div>
-    <p>新闻标题与摘要来自各媒体的 RSS，点击卡片将跳转到原文。</p>
+    <p>Headlines and summaries come from each outlet's RSS feed. Click a card to read the original article.</p>
   </footer>
 
   <script src="app.js"></script>
