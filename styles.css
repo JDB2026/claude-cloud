@@ -287,3 +287,9 @@ body {
 .results-table tbody tr:first-child td.pos {
   color: var(--accent);
 }
+
+/* Header credit */
+.powered {
+  font-size: 13px;
+  opacity: .75;
+}
