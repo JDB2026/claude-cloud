@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T03:29:35.656Z",
+  "updatedAt": "2026-11-17T12:23:14.262Z",
   "sources": [
     {
       "name": "Formula 1 Official",
@@ -21,6 +21,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Alonso to race in fearsome Dakar Rally with Aston Martin",
+      "link": "https://www.skysports.com/f1/news/12433/13612958/fernando-alonso-aston-martin-driver-to-race-in-dakar-rally-ahead-of-2027-f1-season-in-return-to-rally-raid-event",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-17T09:00:00.000Z",
+      "summary": "Fernando Alonso will race in the Dakar Rally for Aston Martin in January."
+    },
+    {
+      "title": "Brown reveals Djokovic advice that will help McLaren after 'underperformance'",
+      "link": "https://www.skysports.com/f1/news/12433/13612940/mclaren-chief-zak-brown-says-advice-from-novak-djokovic-will-help-f1-team-bounce-back-from-losing-titles-to-mercedes",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-17T06:00:00.000Z",
+      "summary": "McLaren chief executive Zak Brown says he is using advice from Novak Djokovic to aid his team's attempt to bounce back after losing both of their Formula 1 titles to Mercedes this season."
+    },
     {
       "title": "Aston Martin, Williams reveal special Las Vegas GP liveries",
       "link": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
@@ -155,20 +169,6 @@
       "summary": "Lando Norris believes McLaren are \"not at the level to fight for a world championship\" despite his dominant win in mixed conditions at the Sao Paulo Grand Prix."
     },
     {
-      "title": "Piastri splits from manager Webber",
-      "link": "https://www.skysports.com/f1/news/12433/13610108/oscar-piastri-mclaren-driver-splits-from-mark-webber-management-after-sao-paulo-grand-prix-in-brazil",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-09T11:00:00.000Z",
-      "summary": "Oscar Piastri has split from his management team, led by former Red Bull driver and nine-time Formula 1 winner Mark Webber and his partner Ann Webber."
-    },
-    {
-      "title": "New slow-mo and POV angles of Lando's failed champagne bottle smash!",
-      "link": "https://www.skysports.com/watch/video/13610123/pov-of-lando-norris-shattering-champagne-bottle-after-winning-sao-paulo-gp",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-09T10:42:00.000Z",
-      "summary": "New angles of Lando Norris shattering his champagne bottle on the podium after winning the Sao Paulo Grand Prix."
-    },
-    {
       "title": "The confusion surrounding Colton Herta's F1 superlicence explained",
       "link": "https://www.autosport.com/f1/news/the-confusion-surrounding-colton-hertas-f1-superlicence-explained/10869858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-SINGLE-SEATERS&utm_term=News&utm_content=uk",
       "source": "Autosport Single-Seaters",
@@ -202,6 +202,27 @@
       "source": "Autosport Single-Seaters",
       "publishedAt": "2026-10-20T08:48:32.000Z",
       "summary": "Circuit de Barcelona-Catalunya has reached an agreement to host an IndyCar round from 2027, bringing North America's premier single-seater championship to the home of five-time champion Alex Palou. The Circuit de Barcel…"
+    },
+    {
+      "title": "The 5 drivers most likely to win in Las Vegas",
+      "link": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-las-vegas-grand-prix-according-to-the-betting-markets.35XTVOVdU16UJWGZJj3ctb",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Las Vegas Strip Circuit."
+    },
+    {
+      "title": "Alonso set for Dakar Rally return with Aston Martin",
+      "link": "https://www.formula1.com/en/latest/article/alonso-to-make-dakar-rally-return-with-aston-martin-dreadnought-in-2027.6qKZRHvlJP4ECq2Bri772q",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Fernando Alonso will compete in the 2027 edition of the Dakar Rally for Aston Martin."
+    },
+    {
+      "title": "Aston Martin showcase bespoke Las Vegas Grand Prix livery",
+      "link": "https://www.formula1.com/en/latest/article/gallery-aston-martin-showcase-bespoke-livery-for-las-vegas-grand-prix.7f71lWPYrxvriroCo30iaY",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Aston Martin will run a special livery on the AMR26 for the Las Vegas Grand Prix weekend."
     },
     {
       "title": "Terry Crews on America's growing love for F1",
@@ -251,27 +272,6 @@
       "source": "Formula 1 Official",
       "publishedAt": null,
       "summary": "Rafael Camara will return for his second Formula 1 race weekend at the Las Vegas Grand Prix, having made his debut for Haas last time out in Sao Paulo."
-    },
-    {
-      "title": "QUIZ: Can you identify these F1 tracks from just one picture?",
-      "link": "https://www.formula1.com/en/latest/article/trivia-guess-the-track-1.1N6Z8MTxyBFjqio8h5hOSW",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": ""
-    },
-    {
-      "title": "Behind the lens with Mark Sutton for Antonelli's F1 title triumph",
-      "link": "https://www.formula1.com/en/latest/article/one-of-the-best-experiences-of-my-life-mark-sutton-on-photographing-antonellis-f1-title.2oqpziZe3WQ5B2xFvPWsnU",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "F1 photographer Mark Sutton reflects on capturing Kimi Antonelli's 2026 championship, from the emotional celebrations at Monza to his title triumph in Mexico."
-    },
-    {
-      "title": "TREMAYNE: It’s 10 years since Ron Dennis left F1 – I miss him",
-      "link": "https://www.formula1.com/en/latest/article/its-10-years-since-ron-dennis-left-f1-i-miss-him.1HKS8KLe46myFMW6qOzsdY",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "F1 Hall of Fame journalist David Tremayne remembers one of the titans of the paddock, a decade after he walked away from the sport in which he'd been so successful."
     }
   ]
 }
