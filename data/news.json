@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T12:06:06.386Z",
+  "updatedAt": "2026-11-18T20:49:34.426Z",
   "sources": [
     {
       "name": "Formula 1 Official",
@@ -21,6 +21,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Cadillac confirm Bottas to stay with team for 2027",
+      "link": "https://www.skysports.com/f1/news/12433/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-18T20:11:00.000Z",
+      "summary": "Cadillac have confirmed Valtteri Bottas will stay on at the team for the 2027 Formula 1 season, ending speculation about the Finnish driver's future."
+    },
+    {
+      "title": "Piastri to serve grid penalty at Las Vegas GP",
+      "link": "https://www.skysports.com/f1/news/12433/13613606/oscar-piastri-to-serve-grid-penalty-at-las-vegas-gp-as-mclaren-confirm-addition-of-more-upgrades-to-mcl40",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-18T14:30:00.000Z",
+      "summary": "McLaren have confirmed that Oscar Piastri will serve a 10-place grid penalty at this weekend's Las Vegas Grand Prix as he will be forced to exceed his engine allowance for the season."
+    },
     {
       "title": "What's still to play for in 2026 as F1 hits Vegas?",
       "link": "https://www.skysports.com/f1/news/12433/13611983/las-vegas-gp-whats-still-to-play-for-over-final-three-races-of-f1-2026-season-with-battles-in-drivers-and-constructors-championships",
@@ -106,13 +120,6 @@
       "summary": "Racing Bulls have confirmed Liam Lawson and Arvid Lindblad will be retained for the 2027 Formula 1 season."
     },
     {
-      "title": "The Fast and the Curious",
-      "link": "https://www.skysports.com/football/news/12433/13611406/the-fast-and-the-curious-an-f1-podcast-with-greg-james-betty-glover-and-christian-hewgill",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-12T09:00:00.000Z",
-      "summary": "The Fast and the Curious takes you inside the fascinating world of Formula 1."
-    },
-    {
       "title": "Vowles: Williams got carried away with success but 2026 only a blip",
       "link": "https://www.skysports.com/f1/news/12433/13610745/james-vowles-williams-boss-admits-team-got-carried-away-with-success-but-says-2026-f1-season-struggles-are-only-a-blip",
       "source": "Sky Sports F1",
@@ -162,13 +169,6 @@
       "summary": "Formula 1 chiefs are proceeding with plans to hold the final two rounds of 2026 in the Middle East after a deadline to move one of the season-ending races to Italy passed."
     },
     {
-      "title": "No further F1 engine upgrades handed out after final 2026 review period",
-      "link": "https://www.skysports.com/f1/news/12433/13610600/f1-aduo-fia-announces-no-further-engine-upgrades-handed-out-after-final-review-period-of-2026-season",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-10T12:00:00.000Z",
-      "summary": "No further engine upgrade opportunities have been granted to Formula 1's power unit manufacturers following the third and final review period of the 2026 season, the FIA has confirmed."
-    },
-    {
       "title": "The confusion surrounding Colton Herta's F1 superlicence explained",
       "link": "https://www.autosport.com/f1/news/the-confusion-surrounding-colton-hertas-f1-superlicence-explained/10869858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-SINGLE-SEATERS&utm_term=News&utm_content=uk",
       "source": "Autosport Single-Seaters",
@@ -204,11 +204,53 @@
       "summary": "Circuit de Barcelona-Catalunya has reached an agreement to host an IndyCar round from 2027, bringing North America's premier single-seater championship to the home of five-time champion Alex Palou. The Circuit de Barcel…"
     },
     {
+      "title": "Best value early bets for the Las Vegas Grand Prix",
+      "link": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-las-vegas-grand-prix.G1YHN2K36iO2K2PxC7zjh",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "We've assessed the latest betting markets and picked the early bets offering the best value at the Las Vegas Strip Circuit."
+    },
+    {
+      "title": "Formula 1 and WHOOP announce landmark partnership",
+      "link": "https://www.formula1.com/en/latest/article/formula-1-and-whoop-announce-landmark-partnership-to-bring-fans-closer-to-the-human-side-of-racing.1YTsprVRx7MPlaDJnniexm",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "WHOOP has become an Official Partner of Formula 1 in a multi-year partnership, helping unlock a new era of human performance storytelling in the sport."
+    },
+    {
+      "title": "Our early Bet Builder picks for Las Vegas",
+      "link": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-las-vegas-grand-prix.3CN1v7zsYxJIfD3azv9vjj",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Las Vegas Grand Prix, including two podium finishes, a top-six selection and a driver with points potential."
+    },
+    {
+      "title": "The F1 braking system innovation that could soon be revealed",
+      "link": "https://www.formula1.com/en/latest/article/the-f1-braking-system-innovation-that-could-soon-be-revealed.5BLbJmoFNGwhbllIHNGHOG",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Mark Hughes and Giorgio Piola speculate about a revolutionary cooling method that could soon be revealed."
+    },
+    {
+      "title": "Why Russell won't run Mercedes' upgraded turbocharger in Vegas",
+      "link": "https://www.formula1.com/en/latest/article/why-russell-wont-run-mercedes-upgraded-turbocharger-in-las-vegas.2ZwhMHFGbRFb6pApmMiEgY",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "World Champion Kimi Antonelli is set to run with Mercedes' upgraded turbocharger at this weekend's Las Vegas Grand Prix, but team mate George Russell will not."
+    },
+    {
       "title": "How F1 drivers and strategists tackle the Las Vegas Grand Prix",
       "link": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-las-vegas-grand-prix.7yJLDDlVCuKALLnoYrpgrb",
       "source": "Formula 1 Official",
       "publishedAt": null,
       "summary": "In Formula 1, performance is decided in moments where conditions change instantly, and decisions carry consequence. The difference isn’t just speed – it’s perspective."
+    },
+    {
+      "title": "Save the date: F1 Unlocked Season Finale Watch Party",
+      "link": "https://www.formula1.com/en/latest/article/save-the-date-f1-unlocked-season-finale-watch-party.22ZXTQut4A8OosqH0ldCTM",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": ""
     },
     {
       "title": "QUIZ: 10 tricky questions on Formula 1 night races",
@@ -230,48 +272,6 @@
       "source": "Formula 1 Official",
       "publishedAt": null,
       "summary": "Here is all the information you need to follow the Las Vegas Grand Prix weekend live on F1 TV."
-    },
-    {
-      "title": "What is the weather forecast for the Las Vegas Grand Prix?",
-      "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-las-vegas-grand-prix.1ki78WcweOZ8vq2zQ1HOJX",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "The weather forecast is in ahead of the Las Vegas Grand Prix."
-    },
-    {
-      "title": "What tyres will the teams have for the Las Vegas Grand Prix?",
-      "link": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-las-vegas-grand-prix.1HEaoIW48MVZs9cAT7rP2w",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Las Vegas Grand Prix weekend."
-    },
-    {
-      "title": "QUIZ: How well do you know F1's races in the Americas?",
-      "link": "https://www.formula1.com/en/latest/article/trivia-the-facts.5avgFqteXDYBLcsPPYOJcj",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": ""
-    },
-    {
-      "title": "Cadillac reveal special livery for Las Vegas Grand Prix",
-      "link": "https://www.formula1.com/en/latest/article/gallery-cadillac-reveal-special-livery-for-las-vegas-grand-prix.1b7NXQe83gP2LzjiCQf2ES",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Cadillac have become the latest team to showcase a bespoke livery that will feature on their car for the Las Vegas Grand Prix."
-    },
-    {
-      "title": "Audi announce Felbermayr for third F1 ACADEMY season in 2027",
-      "link": "https://www.formula1.com/en/latest/article/audi-announce-emma-felbermayr-for-third-f1-academy-season-in-2027.3numbjpdYoNe5Bp0NCeSUz",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Audi have confirmed that Emma Felbermayr will contest a third F1 ACADEMY season next year, with the Austrian driver remaining part of the Audi Driver Development Programme."
-    },
-    {
-      "title": "Sainz on his 250th GP and Williams’ ‘most important year’",
-      "link": "https://www.formula1.com/en/latest/article/exclusive-sainz-reflects-on-the-journey-to-his-250th-grand-prix-and-preparing-for-williams-most-important-year.4q4YmHp7ZpfnUTMjNNPXc9",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Amid a challenging season for Williams, Carlos Sainz looks back at the ups and downs of his Formula 1 career so far as he gets ready for his 250th Grand Prix."
     }
   ]
 }
