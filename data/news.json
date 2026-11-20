@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T17:41:33.108Z",
+  "updatedAt": "2026-11-20T23:46:37.029Z",
   "sources": [
     {
       "name": "Formula 1 Official",
@@ -21,6 +21,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Las Vegas GP: Busy final practice anticipated with no rain expected LIVE!",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13613768/f1-las-vegas-gp-qualifying-and-final-practice-updates-results-stream-and-highlights-from-formula-1-race-weekend-on-the-strip",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-20T23:30:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "V8 engines return confirmed in bid to 'reconnect with DNA' of F1",
+      "link": "https://www.skysports.com/f1/news/12433/13614482/v8-engines-returning-to-formula-1-in-2030-as-fia-president-mohammed-ben-sulayem-describes-move-to-reconnect-with-dna-of-the-sport",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-20T20:10:00.000Z",
+      "summary": "Formula 1 will return to V8 engines from 2030 in a move FIA president Mohammed Ben Sulayem has described as \"an opportunity to reconnect with the DNA\" of the sport."
+    },
     {
       "title": "Brown: McLaren wouldn't trade Norris for anyone else on F1 grid",
       "link": "https://www.skysports.com/f1/news/12433/13614182/lando-norris-mclaren-chief-zak-brown-says-he-wouldnt-trade-2025-world-champion-for-any-other-driver-on-f1-grid",
@@ -99,13 +113,6 @@
       "summary": ""
     },
     {
-      "title": "CHAOS incoming... F1 Lego race returns for Las Vegas GP!",
-      "link": "https://www.skysports.com/watch/video/13613824/las-vegas-gp-f1-lego-race-returns",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-19T07:30:00.000Z",
-      "summary": "The F1 Lego race returns for the Las Vegas Grand Prix!"
-    },
-    {
       "title": "F1 drivers back return of 'very cool' V8 engines in the future",
       "link": "https://www.skysports.com/f1/news/12433/13613632/formula-1-drivers-back-return-of-very-cool-v8-engines-in-the-future-ahead-of-las-vegas-grand-prix",
       "source": "Sky Sports F1",
@@ -146,13 +153,6 @@
       "source": "Sky Sports F1",
       "publishedAt": "2026-11-18T06:00:00.000Z",
       "summary": "The 2026 Formula 1 season has three races left to go with the Las Vegas Grand Prix opening the final triple header of the year this weekend."
-    },
-    {
-      "title": "Mercedes set to run ADUO engine upgrade in Las Vegas with one driver",
-      "link": "https://www.skysports.com/f1/news/12433/13613272/mercedes-confirm-aduo-turbo-upgrade-ready-for-las-vegas-gp-with-kimi-antonelli-set-to-run-new-engine-part",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-17T15:31:00.000Z",
-      "summary": "World champions Mercedes will bring their ADUO turbocharger upgrade to this weekend's Las Vegas Grand Prix, although George Russell will not use it to avoid having to take another grid penalty in his bid for second plac…"
     },
     {
       "title": "Las Vegas GP: UK schedule and how to watch on Sky Sports",
@@ -197,6 +197,13 @@
       "summary": "Audi junior Freddie Slater will make his debut at the wheel of a Formula 1 car with a couple of Free Practice 1 outings in Mexico City and Sao Paulo. Audi took over the Sauber team ahead of 2026 for the German brand’s m…"
     },
     {
+      "title": "FIA confirms unanimous agreement on 2030 PU framework",
+      "link": "https://www.formula1.com/en/latest/article/fia-confirms-unanimous-agreement-on-framework-for-2030-power-units.AZ7EFvWPyGPH0xG1JS8Ud",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Key parties including the FIA and F1 teams have committed to the 2030 power unit technical framework."
+    },
+    {
       "title": "Best Qualifying bets before the Las Vegas GP",
       "link": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
       "source": "Formula 1 Official",
@@ -204,7 +211,7 @@
       "summary": "Our expert betting writers share their top picks for Qualifying at the Las Vegas Strip Circuit."
     },
     {
-      "title": "Thursday rains in Las Vegas leave teams playing catch-up",
+      "title": "Thursday rain in Las Vegas leave teams playing catch-up",
       "link": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
       "source": "Formula 1 Official",
       "publishedAt": null,
@@ -258,13 +265,6 @@
       "source": "Formula 1 Official",
       "publishedAt": null,
       "summary": "Lewis Hamilton believes himself and Ferrari made \"a couple of good findings\" during a wet day of practice ahead of the Las Vegas Grand Prix."
-    },
-    {
-      "title": "Red Bull working to fix Verstappen's Vegas practice issues",
-      "link": "https://www.formula1.com/en/latest/article/red-bull-working-to-understand-and-fix-verstappens-balance-issues-after-tricky-las-vegas-practice.2CbSLmEnwmgW8h0V1Ujr03",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Pierre Wache explains Max Verstappen's balance and energy management issues after a difficult Thursday in Las Vegas, with Red Bull working on solutions."
     }
   ]
 }
