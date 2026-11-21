@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T23:46:37.029Z",
+  "updatedAt": "2026-11-21T06:06:47.400Z",
   "sources": [
     {
       "name": "Formula 1 Official",
@@ -22,7 +22,35 @@
   ],
   "items": [
     {
-      "title": "Las Vegas GP: Busy final practice anticipated with no rain expected LIVE!",
+      "title": "Antonelli fastest but Verstappen on pole after dramatic Las Vegas qualifying",
+      "link": "https://www.skysports.com/f1/news/12433/13614575/las-vegas-gp-kimi-antonelli-fastest-but-max-verstappen-on-pole-from-george-russell-after-dramatic-qualifying",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-21T05:30:00.000Z",
+      "summary": "Kimi Antonelli was fastest in qualifying for the Las Vegas Grand Prix but a five-place grid penalty means Max Verstappen will start on pole position from George Russell."
+    },
+    {
+      "title": "Las Vegas Grand Prix - Qualifying Highlights",
+      "link": "https://www.skysports.com/watch/video/13614601/las-vegas-grand-prix-qualifying-highlights",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-21T05:10:00.000Z",
+      "summary": "Highlights from qualifying for the 2026 Las Vegas Grand Prix."
+    },
+    {
+      "title": "Larsen holds off Palmowski to win opening Las Vegas race",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-21T03:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "'He's pushed me into the barrier!' - Russell and Verstappen collide in final practice",
+      "link": "https://www.skysports.com/watch/video/13614584/las-vegas-gp-george-russell-and-max-verstappen-crash-into-each-other-during-p3",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-21T01:30:00.000Z",
+      "summary": "George Russell and Max Verstappen collided with one another during final practice at the Las Vegas Grand Prix."
+    },
+    {
+      "title": "Las Vegas GP: Reaction to penalised Antonelli qualifying fastest and Verstappen pole LIVE!",
       "link": "https://www.skysports.com/f1/live-blog/12433/13613768/f1-las-vegas-gp-qualifying-and-final-practice-updates-results-stream-and-highlights-from-formula-1-race-weekend-on-the-strip",
       "source": "Sky Sports F1",
       "publishedAt": "2026-11-20T23:30:00.000Z",
@@ -41,13 +69,6 @@
       "source": "Sky Sports F1",
       "publishedAt": "2026-11-20T07:50:00.000Z",
       "summary": "McLaren chief Zak Brown says he would not want to trade Lando Norris for anyone else on the Formula 1 grid."
-    },
-    {
-      "title": "F1 Academy champion Palmowski claims dominant Las Vegas pole",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-20T06:35:00.000Z",
-      "summary": ""
     },
     {
       "title": "Antonelli hit with grid penalty for Las Vegas GP",
@@ -127,32 +148,11 @@
       "summary": "Lewis Hamilton has insisted there is no lack of trust between himself and his Ferrari team despite having overridden orders from the pit wall twice in recent races."
     },
     {
-      "title": "'I found the limit of a champagne bottle!' - Norris reflects on VIRAL Brazil podium",
-      "link": "https://www.skysports.com/watch/video/13613786/i-found-the-limit-of-a-champagne-bottle-lando-norris-reflects-on-viral-brazil-gp-podium",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-19T04:15:00.000Z",
-      "summary": "Lando Norris reflects on his viral Sao Paulo GP podium, where he smashed his champagne bottle and appeared to get caught in the face by pyrotechnic sparks!"
-    },
-    {
       "title": "Cadillac confirm Bottas to stay with team for 2027",
       "link": "https://www.skysports.com/f1/news/12433/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix",
       "source": "Sky Sports F1",
       "publishedAt": "2026-11-18T20:11:00.000Z",
       "summary": "Cadillac have confirmed Valtteri Bottas will stay on at the team for the 2027 Formula 1 season, ending speculation about the Finnish driver's future."
-    },
-    {
-      "title": "Piastri to serve grid penalty at Las Vegas GP",
-      "link": "https://www.skysports.com/f1/news/12433/13613606/oscar-piastri-to-serve-grid-penalty-at-las-vegas-gp-as-mclaren-confirm-addition-of-more-upgrades-to-mcl40",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-18T14:30:00.000Z",
-      "summary": "McLaren have confirmed that Oscar Piastri will serve a 10-place grid penalty at this weekend's Las Vegas Grand Prix as he will be forced to exceed his engine allowance for the season."
-    },
-    {
-      "title": "What's still to play for in 2026 as F1 hits Vegas?",
-      "link": "https://www.skysports.com/f1/news/12433/13611983/las-vegas-gp-whats-still-to-play-for-over-final-three-races-of-f1-2026-season-with-battles-in-drivers-and-constructors-championships",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-18T06:00:00.000Z",
-      "summary": "The 2026 Formula 1 season has three races left to go with the Las Vegas Grand Prix opening the final triple header of the year this weekend."
     },
     {
       "title": "Las Vegas GP: UK schedule and how to watch on Sky Sports",
@@ -197,6 +197,34 @@
       "summary": "Audi junior Freddie Slater will make his debut at the wheel of a Formula 1 car with a couple of Free Practice 1 outings in Mexico City and Sao Paulo. Audi took over the Sauber team ahead of 2026 for the German brand’s m…"
     },
     {
+      "title": "Antonelli quickest in Vegas Qualifying as Verstappen inherits pole",
+      "link": "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Kimi Antonelli finished fastest in Qualifying for the Las Vegas Grand Prix, but Max Verstappen will inherit pole position as the Mercedes driver serves a grid penalty."
+    },
+    {
+      "title": "AS IT HAPPENED: Antonelli fastest as Verstappen takes Vegas pole",
+      "link": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-las-vegas-2026.3qo462s7hxQdJeGbqctMAV",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Live coverage of Friday's Qualifying session for the 2026 Las Vegas Grand Prix."
+    },
+    {
+      "title": "Russell goes fastest during final practice in Las Vegas",
+      "link": "https://www.formula1.com/en/latest/article/fp3-russell-goes-fastest-from-antonelli-and-norris-during-final-practice-in-las-vegas.3qwe57vQf1Qjrm2tdp7Vfy",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Mercedes' George Russell set the quickest time during an action-packed third and final practice session at the Las Vegas Grand Prix."
+    },
+    {
+      "title": "AS IT HAPPENED: Final practice for the Las Vegas GP",
+      "link": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-las-vegas-2026.50OIQwa2hcjUWGKsiu3h5L",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Live coverage of Friday's third practice session for the 2026 Las Vegas Grand Prix."
+    },
+    {
       "title": "FIA confirms unanimous agreement on 2030 PU framework",
       "link": "https://www.formula1.com/en/latest/article/fia-confirms-unanimous-agreement-on-framework-for-2030-power-units.AZ7EFvWPyGPH0xG1JS8Ud",
       "source": "Formula 1 Official",
@@ -211,7 +239,7 @@
       "summary": "Our expert betting writers share their top picks for Qualifying at the Las Vegas Strip Circuit."
     },
     {
-      "title": "Thursday rain in Las Vegas leave teams playing catch-up",
+      "title": "Thursday rain in Las Vegas leaves teams playing catch-up",
       "link": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
       "source": "Formula 1 Official",
       "publishedAt": null,
@@ -237,34 +265,6 @@
       "source": "Formula 1 Official",
       "publishedAt": null,
       "summary": "Mercedes reserve driver Fred Vesti will take on additional reserve duties at Alpine for the final three races of 2026 following Paul Aron's departure from the team."
-    },
-    {
-      "title": "What the teams said – Thursday in Las Vegas",
-      "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-thursday-in-las-vegas-2026.4jnMZFzCSpX9y63f0rmnQW",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "The drivers and teams report back from the first two practice sessions at the 2026 Las Vegas Grand Prix weekend."
-    },
-    {
-      "title": "Palmowski makes history as she secures pole in Las Vegas",
-      "link": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-makes-history-as-she-secures-her-final-pole-position-around-las-vegas.1n8CvOtY14APLOTC3pzBrL",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Red Bull Racing's Alisha Palmowski secured pole position for the F1 ACADEMY Las Vegas Feature Race."
-    },
-    {
-      "title": "Alpine ‘hopeful’ after Gasly earns P2 during second practice",
-      "link": "https://www.formula1.com/en/latest/article/alpine-feeling-hopeful-after-gasly-earns-p2-during-second-practice-in-las-vegas.3Iac1ObpdCLCHGU5rWCNXO",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Alpine's Pierre Gasly caught the eye by slotting into P2 on the timesheets during Thursday's second practice session at the Las Vegas Grand Prix."
-    },
-    {
-      "title": "Hamilton reflects on Ferrari's practice running in Las Vegas",
-      "link": "https://www.formula1.com/en/latest/article/a-couple-of-good-findings-hamilton-reflects-on-ferraris-wet-practice-running-in-las-vegas.4lQStkjoi1h32oQJng6ZMm",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Lewis Hamilton believes himself and Ferrari made \"a couple of good findings\" during a wet day of practice ahead of the Las Vegas Grand Prix."
     }
   ]
 }
