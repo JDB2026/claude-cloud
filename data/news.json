@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:19:33.641Z",
+  "updatedAt": "2026-11-26T15:37:36.375Z",
   "sources": [
     {
       "name": "Formula 1 Official",
@@ -9,9 +9,9 @@
     },
     {
       "name": "Sky Sports F1",
-      "ok": false,
-      "count": 0,
-      "error": "Invalid time value"
+      "ok": true,
+      "count": 20,
+      "error": null
     },
     {
       "name": "Autosport Single-Seaters",
@@ -22,11 +22,53 @@
   ],
   "items": [
     {
+      "title": "'Unfinished business' - Bearman to continue with Haas in 2027",
+      "link": "https://www.skysports.com/watch/video/13616840/qatar-gp-oliver-bearman-says-he-has-unfinished-business-with-haas-in-2027",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-26T14:06:00.000Z",
+      "summary": "Oliver Bearman is delighted to once again be racing for Haas next season."
+    },
+    {
+      "title": "Bearman confirmed to stay at Haas for 2027",
+      "link": "https://www.skysports.com/f1/news/12433/13610208/oliver-bearman-to-remain-with-haas-for-2027-f1-season-after-new-contract-finally-agreed-ahead-of-qatar-gp",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-26T09:00:00.000Z",
+      "summary": "Haas have confirmed Oliver Bearman will stay at the team for the 2027 Formula 1 season, after protracted contract talks resulted in a one-year extension."
+    },
+    {
+      "title": "What impact will tyre-limit rule have on Qatar GP?",
+      "link": "https://www.skysports.com/f1/news/12433/13615090/qatar-gp-explaining-2026-tyre-limit-rule-and-what-impact-it-will-have-on-f1-race-weekend-at-lusail-international-circuit",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-26T06:00:00.000Z",
+      "summary": "Formula 1 returns to the Middle East this weekend for the first time since pre-season testing in February for back-to-back races to finish the 2026 campaign."
+    },
+    {
+      "title": "Williams handed penalties after minor breach of cost cap",
+      "link": "https://www.skysports.com/f1/news/12433/13616434/williams-in-minor-breach-of-f1-cost-cap-and-take-financial-and-wind-tunnel-time-penalties",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-25T16:17:00.000Z",
+      "summary": "Williams have been given financial and aerodynamic testing penalties after committing a minor overspend breach of Formula 1's cost cap for the 2025 season."
+    },
+    {
+      "title": "Do Ferrari need to make Hamilton their No 1 driver?",
+      "link": "https://www.skysports.com/f1/news/12433/13616299/what-next-for-ferrari-after-charles-leclerc-lewis-hamiltons-latest-collision-with-no-1-driver-and-consequences-up-for-debate",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "summary": "Charles Leclerc and Lewis Hamilton's latest run-in at the Las Vegas Grand Prix has ramped up scrutiny on Ferrari and what the team will do to try to avoid more costly on-track incidents between their two drivers."
+    },
+    {
       "title": "Browning reveals hardest aspect of maiden Super Formula season",
       "link": "https://www.autosport.com/super-formula/news/luke-browning-reveals-hardest-aspect-of-maiden-super-formula-season/10877643/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-SINGLE-SEATERS&utm_term=News&utm_content=uk",
       "source": "Autosport Single-Seaters",
       "publishedAt": "2026-11-25T10:50:43.000Z",
       "summary": "Williams Formula 1 reserve driver Luke Browning says getting up to speed on new circuits was the hardest aspect of his Super Formula season, as he sealed the Rookie of the Year title. Driving for the Toyota-powered Kond…"
+    },
+    {
+      "title": "Villeneuve: Verstappen showed 'race craft' edge over Mercedes pair in Vegas",
+      "link": "https://www.skysports.com/f1/news/12433/13615629/max-verstappen-showed-race-craft-edge-over-george-russell-and-kimi-antonelli-during-las-vegas-gp-says-jacques-villeneuve",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-25T07:00:00.000Z",
+      "summary": "Former Formula 1 world champion Jacques Villeneuve says Max Verstappen's Las Vegas Grand Prix victory showed that Mercedes' Kimi Antonelli and George Russell will not be able to beat the Red Bull driver in next year's c…"
     },
     {
       "title": "What's next for Herta after F1 2027 snub?",
@@ -43,11 +85,32 @@
       "summary": "Freddie Slater will make his Formula 2 debut in this year’s season-ending Qatar and Abu Dhabi rounds. The butterfly effect originating in Esteban Ocon’s fallout with the Haas Formula 1 team means Rafael Camara has been …"
     },
     {
+      "title": "Stella 'liked' Piastri's fiery response to McLaren 'be careful' warnings",
+      "link": "https://www.skysports.com/f1/news/12433/13615667/oscar-piastri-mclaren-team-boss-andrea-stella-says-he-liked-drivers-fiery-radio-response-to-warnings-to-be-careful-of-lando-norris",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "summary": "McLaren team principal Andrea Stella says he liked Oscar Piastri's fiery response to radio messages warning the Australian to \"be careful\" battling his team-mate Lando Norris during the Las Vegas Grand Prix."
+    },
+    {
       "title": "New Super Formula champion eyes dream IndyCar move to \"demonstrate\" Japan's quality",
       "link": "https://www.autosport.com/super-formula/news/super-formula-champion-eyes-indycar-move/10877424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-SINGLE-SEATERS&utm_term=News&utm_content=uk",
       "source": "Autosport Single-Seaters",
       "publishedAt": "2026-11-24T11:40:46.000Z",
       "summary": "New Super Formula champion Kakunoshin Ohta says he wants to demonstrate the value of the Japanese racing scene as he continues to work towards his IndyCar dream. Honda-backed Ohta secured the title with a race to spare …"
+    },
+    {
+      "title": "Has Verstappen feud reignited at wrong time for Russell?",
+      "link": "https://www.skysports.com/f1/news/12433/13615702/max-verstappen-and-george-russell-has-feud-reignited-at-wrong-time-for-mercedes-driver-after-difficult-2026-f1-season",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-23T18:30:00.000Z",
+      "summary": "The reignition of the long-running feud between George Russell and Max Verstappen has added an entertaining twist to the end of the 2026 Formula 1 season, but it may not be what the Mercedes driver needed at this moment."
+    },
+    {
+      "title": "NEW ANGLES! Hamilton spins after contact with Ferrari team-mate Leclerc!",
+      "link": "https://www.skysports.com/watch/video/13615583/las-vegas-gp-new-angles-lewis-hamilton-spins-after-contact-with-ferrari-team-mate-charles-leclerc",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-23T11:02:00.000Z",
+      "summary": "Watch new angles of the collision between Lewis Hamilton and Ferrari teammate Charles Leclerc at the Las Vegas Grand Prix."
     },
     {
       "title": "Herta replaced at Hitech to end F2 season early",
@@ -57,11 +120,81 @@
       "summary": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech. The nine-time IndyCar race winner made the transition to …"
     },
     {
+      "title": "Wolff: Russell-Verstappen provocations a good factor of F1 entertainment",
+      "link": "https://www.skysports.com/f1/news/12433/13615087/max-verstappen-rivalry-with-george-russell-a-good-factor-of-f1-entertainment-says-mercedes-chief-toto-wolff",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "summary": "Mercedes chief Toto Wolff says the \"provocations\" between his driver George Russell and Red Bull's Max Verstappen are a \"good factor of the entertainment\" in Formula 1."
+    },
+    {
+      "title": "'This cannot continue' - Ferrari to hold fresh Leclerc-Hamilton talks after collision",
+      "link": "https://www.skysports.com/f1/news/12433/13615086/lewis-hamilton-charles-leclerc-clashes-cannot-continue-after-las-vegas-gp-with-frederic-vasseur-to-speak-to-drivers-again",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-23T06:00:00.000Z",
+      "summary": "Ferrari team boss Frederic Vasseur says he will hold further discussions with drivers Charles Leclerc and Lewis Hamilton after their latest tangle in the Las Vegas Grand Prix, admitting such incidents \"cannot continue\"."
+    },
+    {
+      "title": "Qatar GP: UK schedule and how to watch on Sky Sports",
+      "link": "https://www.skysports.com/f1/news/12433/13613188/qatar-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-lusail-international-circuit-live-on-sky-sports",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-23T06:00:00.000Z",
+      "summary": "Formula 1 heads to the Middle East for the last two rounds of the 2026 season with the Qatar Grand Prix hosting the penultimate event this weekend."
+    },
+    {
+      "title": "Camara to sacrifice F2 title bid to finish F1 season with Haas",
+      "link": "https://www.skysports.com/f1/news/12433/13615376/rafael-camara-haas-confirm-brazilian-will-race-in-final-two-rounds-of-f1-season-rather-than-chase-f2-championship",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-22T18:07:00.000Z",
+      "summary": "Haas have confirmed Rafael Camara will continue to feature for the team in the final two Formula 1 races of the season, rather than challenge for the Formula 2 championship."
+    },
+    {
+      "title": "'Completely unacceptable! - Vasseur rebukes Leclerc for Hamilton collision",
+      "link": "https://www.skysports.com/f1/news/12433/13615085/ferrari-boss-frederic-vasseur-blames-charles-leclerc-for-unacceptable-collision-with-lewis-hamilton-in-las-vegas-gp",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-22T07:50:00.000Z",
+      "summary": "Ferrari team principal Frederic Vasseur blamed Charles Leclerc for the \"completely unacceptable\" collision with team-mate Lewis Hamilton in the Las Vegas Grand Prix."
+    },
+    {
+      "title": "Verstappen taunts Russell over Las Vegas GP error",
+      "link": "https://www.skysports.com/f1/news/12433/13615084/max-verstappen-says-george-russell-so-far-below-his-level-after-poking-fun-at-rival-for-major-error-during-las-vegas-gp",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-22T07:45:00.000Z",
+      "summary": "Max Verstappen says George Russell is \"so far below my level\" in a scathing response to the Mercedes driver after winning the Las Vegas Grand Prix."
+    },
+    {
+      "title": "'He's so far below my level' - Verstappen rips into Russell as feud reignited",
+      "link": "https://www.skysports.com/watch/video/13615135/las-vegas-gp-max-verstappen-rips-into-george-russell-after-grand-prix-win",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-22T07:04:00.000Z",
+      "summary": "Max Verstappen had a choice few words for long-time foe George Russell after winning the Las Vegas Grand Prix."
+    },
+    {
       "title": "Super Formula Suzuka: Nojiri ends drought with win in season finale",
       "link": "https://www.autosport.com/super-formula/news/super-formula-suzuka-nojiri-ends-drought-with-win-in-season-finale/10876723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-SINGLE-SEATERS&utm_term=News&utm_content=uk",
       "source": "Autosport Single-Seaters",
       "publishedAt": "2026-11-22T06:37:36.000Z",
       "summary": "Tomoki Nojiri ended a year-long Super Formula win drought in the final race of the season at Suzuka on Sunday, beating newly-crowned champion Kakunoshin Ohta. Team Mugen driver Nojiri converted a record-extending 26th p…"
+    },
+    {
+      "title": "Las Vegas Grand Prix - Race highlights",
+      "link": "https://www.skysports.com/watch/video/13615112/las-vegas-grand-prix-race-highlights",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-22T05:42:00.000Z",
+      "summary": "Highlights from the 2026 Las Vegas Grand Prix."
+    },
+    {
+      "title": "Verstappen wins wild Las Vegas GP as Ferraris collide again",
+      "link": "https://www.skysports.com/f1/news/12433/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-22T05:40:00.000Z",
+      "summary": "Max Verstappen produced a remarkable drive to win a wild Las Vegas Grand Prix that saw him withstand extreme pressure from George Russell and Kimi Antonelli before a late Mercedes collapse."
+    },
+    {
+      "title": "Las Vegas GP: Reaction after Verstappen wins thriller, Hamilton-Leclerc collide",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13615079/f1-las-vegas-gp-live-race-updates-results-stream-and-highlights-from-21st-round-of-2026-formula-1-season-in-usa",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-22T02:53:00.000Z",
+      "summary": "Follow live updates and watch the best video from the Las Vegas Grand Prix. Watch live on Sky Sports F1 and Main Event"
     },
     {
       "title": "Super Formula Suzuka: Ohta takes title in dramatic fashion as Iwasa wins opener",
@@ -92,6 +225,55 @@
       "summary": "Lando Norris' new race team LN4 Fusion has been granted a place on the 2027 Formula 2 grid. The squad has been selected as the only new team for the next three-year cycle, joining 10 incumbents from the beginning of nex…"
     },
     {
+      "title": "Norris concedes 2026 ‘certainly not been our finest’ year",
+      "link": "https://www.formula1.com/en/latest/article/you-cant-win-them-all-norris-concedes-it-hasnt-been-mclarens-finest-year-in-2026-assessment.bJdxL08P1IOeV8wzQkUsX",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Lando Norris has reflected on how his position in the championship has changed over the last 12 months, accepting that “you can’t win them all”."
+    },
+    {
+      "title": "LIVE COVERAGE: All the build-up ahead of the Qatar GP weekend",
+      "link": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-qatar-2026.4WEmmZr6fKX8XU6mHM6lN9",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Live coverage of all the build-up ahead of the 2026 Qatar Grand Prix weekend."
+    },
+    {
+      "title": "Facts, stats and trivia ahead of the 2026 Qatar GP",
+      "link": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-qatar-grand-prix.7Ayey9W9IVQ1yNkR8F6zEI",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "As F1 moves on to Lusail for the Qatar Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more."
+    },
+    {
+      "title": "Everything you need to know about the Lusail International Circuit",
+      "link": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-lusail-international-circuit.5QWk6JkgFRrObe3OR2mROI",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Get up to speed with all the key Lusail International Circuit statistics, driving pointers, facts and more."
+    },
+    {
+      "title": "2027 line-ups confirmed: Who is on the grid for next season?",
+      "link": "https://www.formula1.com/en/latest/article/2027-f1-line-ups-confirmed-in-full-who-is-on-the-grid-for-next-season.4CSw0BzYUotJ459iJ8jEGX",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "With Ollie Bearman now confirmed at Haas for next season, the 2027 grid is finally complete. So, which teams have changed their line ups, who is sticking with their current pairings and how many new faces are on the gri…"
+    },
+    {
+      "title": "Why Bearman’s new Haas deal took so long to get over the line",
+      "link": "https://www.formula1.com/en/latest/article/analysis-why-bearmans-new-haas-deal-took-so-long-to-get-over-the-line.M0No4qdgSUFPFMgGKkNKv",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Lawrence Barretto explains the delay in announcing Ollie Bearman's latest Haas contract, which marks the completion of the 2027 grid."
+    },
+    {
+      "title": "Bearman to continue with Haas for 2027",
+      "link": "https://www.formula1.com/en/latest/article/bearman-to-continue-with-haas-for-2027-as-he-completes-next-years-grid.dRq9fWh9OGjhXuShgGnqE",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "The Haas Formula 1 team have confirmed that Ollie Bearman has re-signed with the American outfit."
+    },
+    {
       "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
       "link": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ",
       "source": "Formula 1 Official",
@@ -111,55 +293,6 @@
       "source": "Formula 1 Official",
       "publishedAt": null,
       "summary": "George Russell and Max Verstappen exchanged words off track and battled on track in Las Vegas – and F1 history has seen plenty of flashpoints between rivals."
-    },
-    {
-      "title": "Jack Whitehall on why Antonelli surprised him in first meeting",
-      "link": "https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "In the latest episode of official podcast F1 Beyond The Grid, Jack Whitehall has shared his experiences as an official Friend of F1 – including a memorable first meeting with Kimi Antonelli."
-    },
-    {
-      "title": "From Monza mayhem to Suzuka showdowns – 10 dramatic F1 rivalry flashpoints",
-      "link": "https://www.formula1.com/en/latest/article/from-monza-mayhem-to-suzuka-showdowns-10-dramatic-rivalry-flashpoints-in-f1-history.3tetZNSgL2jM1F3THX3k1M",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Max Verstappen and George Russell traded blows on and off track in Las Vegas last weekend – but that is merely the latest episode in a long history of driver rivalries in Formula 1."
-    },
-    {
-      "title": "EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP",
-      "link": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "The penultimate race weekend of the 2026 season comes from Qatar, and much like last year, Pirelli have mandated a lap limit on each tyre set for the Lusail International Circuit, due to the unique demands of the track."
-    },
-    {
-      "title": "How to stream the 2026 Qatar Grand Prix on F1 TV Premium",
-      "link": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-qatar-grand-prix-on-f1-tv-premium.4CMqa6NvWBGhwyaOXXgsxI",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Here is all the information you need to follow the Qatar Grand Prix weekend live on F1 TV."
-    },
-    {
-      "title": "What tyres will the teams have for the Qatar Grand Prix?",
-      "link": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-qatar-grand-prix.7JllCRweDY5sW1N9LzdkLm",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Qatar Grand Prix weekend, with a maximum of 27 laps permitted on each set."
-    },
-    {
-      "title": "Best value early bets for the Qatar Grand Prix",
-      "link": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-qatar-grand-prix.5himIJYPG93VDcnQ3sccs9",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "We've selected our pick of early bets offering the best value for F1 bettors at the Qatar Grand Prix."
-    },
-    {
-      "title": "Our early Bet Builder for the Qatar Grand Prix",
-      "link": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-qatar-grand-prix.7FBX6XRKhMuX5CMZ996cZ1",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Qatar Grand Prix, including podium finish and top-six selections."
     }
   ]
 }
