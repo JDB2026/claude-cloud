@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:56:30.047Z",
+  "updatedAt": "2026-11-27T18:47:40.585Z",
   "sources": [
     {
       "name": "Formula 1 Official",
@@ -21,6 +21,41 @@
     }
   ],
   "items": [
+    {
+      "title": "Antonelli completes Qatar Friday practice double for dominant Mercedes",
+      "link": "https://www.skysports.com/f1/news/12433/13617140/qatar-gp-kimi-antonelli-completes-friday-practice-double-as-mercedes-dominate-despite-red-flag-interruptions",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-27T18:20:00.000Z",
+      "summary": "Kimi Antonelli topped his team-mate George Russell in both of Friday's practice sessions at the Qatar Grand Prix as Mercedes produced a dominant showing."
+    },
+    {
+      "title": "Qatar GP: Hamilton stops late on, Gasly in wild exit in Antonelli-topped practice LIVE!",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-27T16:37:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Antonelli dominates Qatar first practice",
+      "link": "https://www.skysports.com/f1/news/12433/13617130/qatar-gp-kimi-antonelli-dominates-first-practice-from-george-russell-at-lusail-international-circuit",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-27T14:30:00.000Z",
+      "summary": "Kimi Antonelli dominated first practice for the Qatar Grand Prix as he led team-mate George Russell in a Mercedes one-two."
+    },
+    {
+      "title": "Russell: Hamilton ruthless like Verstappen but has grace and values",
+      "link": "https://www.skysports.com/f1/news/12433/13616912/george-russell-says-lewis-hamilton-is-a-ruthless-competitor-like-max-verstappen-but-has-incredible-grace-and-values",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-27T12:30:00.000Z",
+      "summary": "George Russell says Lewis Hamilton is an equally \"ruthless competitor\" to Max Verstappen but that his former team-mate has \"incredible values, grace and dignity\"."
+    },
+    {
+      "title": "Russell praises Hamilton's 'grace and values' amid Verstappen feud",
+      "link": "https://www.skysports.com/watch/video/13617184/qatar-gp-george-russell-states-lewis-hamilton-is-ruthless-like-max-verstappen-but-has-grace-and-values",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-27T12:25:00.000Z",
+      "summary": "George Russell says Lewis Hamilton is an equally 'ruthless competitor' to Max Verstappen but that his former team-mate has 'incredible values, grace and dignity'. Watch the full interview during Sky Sports F1's live Qat…"
+    },
     {
       "title": "Leclerc denies having 'No 1 clause' in Ferrari contract",
       "link": "https://www.skysports.com/f1/news/12433/13616753/charles-leclerc-denies-presence-of-no-1-driver-clause-in-ferrari-contract-as-he-and-lewis-hamilton-hold-good-discussions-after-collision",
@@ -127,13 +162,6 @@
       "summary": "The reignition of the long-running feud between George Russell and Max Verstappen has added an entertaining twist to the end of the 2026 Formula 1 season, but it may not be what the Mercedes driver needed at this moment."
     },
     {
-      "title": "NEW ANGLES! Hamilton spins after contact with Ferrari team-mate Leclerc!",
-      "link": "https://www.skysports.com/watch/video/13615583/las-vegas-gp-new-angles-lewis-hamilton-spins-after-contact-with-ferrari-team-mate-charles-leclerc",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-23T11:02:00.000Z",
-      "summary": "Watch new angles of the collision between Lewis Hamilton and Ferrari teammate Charles Leclerc at the Las Vegas Grand Prix."
-    },
-    {
       "title": "Herta replaced at Hitech to end F2 season early",
       "link": "https://www.autosport.com/formula2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-SINGLE-SEATERS&utm_term=News&utm_content=uk",
       "source": "Autosport Single-Seaters",
@@ -162,32 +190,11 @@
       "summary": "Ferrari team boss Frederic Vasseur says he will hold further discussions with drivers Charles Leclerc and Lewis Hamilton after their latest tangle in the Las Vegas Grand Prix, admitting such incidents \"cannot continue\"."
     },
     {
-      "title": "Camara to sacrifice F2 title bid to finish F1 season with Haas",
-      "link": "https://www.skysports.com/f1/news/12433/13615376/rafael-camara-haas-confirm-brazilian-will-race-in-final-two-rounds-of-f1-season-rather-than-chase-f2-championship",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-22T18:07:00.000Z",
-      "summary": "Haas have confirmed Rafael Camara will continue to feature for the team in the final two Formula 1 races of the season, rather than challenge for the Formula 2 championship."
-    },
-    {
-      "title": "'Completely unacceptable! - Vasseur rebukes Leclerc for Hamilton collision",
-      "link": "https://www.skysports.com/f1/news/12433/13615085/ferrari-boss-frederic-vasseur-blames-charles-leclerc-for-unacceptable-collision-with-lewis-hamilton-in-las-vegas-gp",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-22T07:50:00.000Z",
-      "summary": "Ferrari team principal Frederic Vasseur blamed Charles Leclerc for the \"completely unacceptable\" collision with team-mate Lewis Hamilton in the Las Vegas Grand Prix."
-    },
-    {
       "title": "Verstappen taunts Russell over Las Vegas GP error",
       "link": "https://www.skysports.com/f1/news/12433/13615084/max-verstappen-says-george-russell-so-far-below-his-level-after-poking-fun-at-rival-for-major-error-during-las-vegas-gp",
       "source": "Sky Sports F1",
       "publishedAt": "2026-11-22T07:45:00.000Z",
       "summary": "Max Verstappen says George Russell is \"so far below my level\" in a scathing response to the Mercedes driver after winning the Las Vegas Grand Prix."
-    },
-    {
-      "title": "'He's so far below my level' - Verstappen rips into Russell as feud reignited",
-      "link": "https://www.skysports.com/watch/video/13615135/las-vegas-gp-max-verstappen-rips-into-george-russell-after-grand-prix-win",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-22T07:04:00.000Z",
-      "summary": "Max Verstappen had a choice few words for long-time foe George Russell after winning the Las Vegas Grand Prix."
     },
     {
       "title": "Super Formula Suzuka: Nojiri ends drought with win in season finale",
@@ -218,11 +225,46 @@
       "summary": "After completing more than 100 kilometres during the first free practice session at the Mexico Grand Prix, Colton Herta appeared to have 40 superlicence points to his name, which would be enough to qualify for the docum…"
     },
     {
-      "title": "Norris' new junior team to enter F2 in 2027",
-      "link": "https://www.autosport.com/formula2/news/lando-norris-ln4-fusion-granted-entry-to-f2-for-2027/10869032/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-SINGLE-SEATERS&utm_term=News&utm_content=uk",
-      "source": "Autosport Single-Seaters",
-      "publishedAt": "2026-10-28T10:32:21.000Z",
-      "summary": "Lando Norris' new race team LN4 Fusion has been granted a place on the 2027 Formula 2 grid. The squad has been selected as the only new team for the next three-year cycle, joining 10 incumbents from the beginning of nex…"
+      "title": "Audi's Italian GP appeal over Tsunoda decision is dismissed",
+      "link": "https://www.formula1.com/en/latest/article/audis-italian-grand-prix-appeal-over-tsunoda-restart-decision-is-dismissed.53YK6RxY4GWQ0WvgCUm3xh",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Audi's appeal has been dismissed following a hearing at the International Court of Appeal on November 25."
+    },
+    {
+      "title": "Antonelli tops FP2 in Qatar from Russell and Norris",
+      "link": "https://www.formula1.com/en/latest/article/fp2-antonelli-tops-extended-second-practice-from-russell-and-norris-in-qatar.6jAa2kcIAVqOPHW30oipfm",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Mercedes' Kimi Antonelli set the pace during second practice at the Qatar Grand Prix, a session that was extended after two earlier red flags."
+    },
+    {
+      "title": "F3 champion Ugochukwu takes pole on F2 debut in Qatar",
+      "link": "https://www.formula1.com/en/latest/article/f2-formula-3-champion-ugochukwu-takes-pole-position-on-series-debut-in-qatar.1JCyMKDD3cZcIEGj2c9Zfp",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Ugo Ugochukwu put in a stunning performance to take pole position on his Formula 2 debut in Qatar."
+    },
+    {
+      "title": "AS IT HAPPENED: Second practice for the Qatar Grand Prix",
+      "link": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-qatar-2026.73fYckKHdfedONjDTaSgeH",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Live coverage of Friday's second practice session at the 2026 Qatar Grand Prix."
+    },
+    {
+      "title": "Antonelli leads Russell in Qatar as Mercedes control FP1",
+      "link": "https://www.formula1.com/en/latest/article/fp1-antonelli-leads-russell-in-qatar-as-mercedes-control-opening-practice.3v7t8Oja9vAGkic9TxN7FR",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Kimi Antonelli finished fastest in Free Practice 1 ahead of the Qatar Grand Prix, the Mercedes driver beating team mate George Russell and Isack Hadjar's Red Bull."
+    },
+    {
+      "title": "AS IT HAPPENED: First practice for the Qatar GP",
+      "link": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-qatar-2026.4b9OJ86R4u41lS38JHHCuO",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Live coverage of Friday's first practice session for the 2026 Qatar Grand Prix."
     },
     {
       "title": "All the stories that got the Qatar paddock talking",
@@ -251,48 +293,6 @@
       "source": "Formula 1 Official",
       "publishedAt": null,
       "summary": "After contact limited them to the lower end of the points in Las Vegas, Charles Leclerc and Lewis Hamilton have insisted they’re working towards a solution to avoid further intra-team incidents."
-    },
-    {
-      "title": "Lindblad left ‘trying to hold back tears’ after Las Vegas spin",
-      "link": "https://www.formula1.com/en/latest/article/lindblad-left-trying-to-hold-back-tears-after-las-vegas-spin-as-he-reflects-on-emotional-social-media-post.6eGFigwGZhsbeR31PHHf4j",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "The Las Vegas Grand Prix ended in heartbreak for Arvid Lindblad, with the Racing Bulls driver having since opened up about the emotions he experienced following his spin out of the race."
-    },
-    {
-      "title": "Camara reacts to decision to sacrifice F2 title challenge",
-      "link": "https://www.formula1.com/en/latest/article/obviously-not-easy-camara-reacts-to-decision-to-sacrifice-f2-title-challenge-for-haas-drive.ltxdSbb5ibvHqIXHBAMId",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Rafael Camara will see out the 2026 season with Haas instead of pursuing the Formula 2 title."
-    },
-    {
-      "title": "Bearman reflects on new Haas deal and Ferrari hopes",
-      "link": "https://www.formula1.com/en/latest/article/im-looking-forward-to-the-future-bearman-reflects-on-new-haas-deal-and-hopes-of-dream-ferrari-drive.2HEQCXu8ItvVTJrmYBR5H1",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Ollie Bearman arrives into the Qatar Grand Prix weekend with his future finally confirmed, following the announcement that he will continue to drive for Haas in 2027."
-    },
-    {
-      "title": "Norris concedes 2026 ‘certainly not been our finest’ year",
-      "link": "https://www.formula1.com/en/latest/article/you-cant-win-them-all-norris-concedes-it-hasnt-been-mclarens-finest-year-in-2026-assessment.bJdxL08P1IOeV8wzQkUsX",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Lando Norris has reflected on how his position in the championship has changed over the last 12 months, accepting that “you can’t win them all”."
-    },
-    {
-      "title": "AS IT HAPPENED: All the build-up ahead of the Qatar GP weekend",
-      "link": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-qatar-2026.4WEmmZr6fKX8XU6mHM6lN9",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Live coverage of all the build-up ahead of the 2026 Qatar Grand Prix weekend."
-    },
-    {
-      "title": "Facts, stats and trivia ahead of the 2026 Qatar GP",
-      "link": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-qatar-grand-prix.7Ayey9W9IVQ1yNkR8F6zEI",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "As F1 moves on to Lusail for the Qatar Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more."
     }
   ]
 }
