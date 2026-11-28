@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T18:47:40.585Z",
+  "updatedAt": "2026-11-28T01:47:39.136Z",
   "sources": [
     {
       "name": "Formula 1 Official",
@@ -22,18 +22,39 @@
   ],
   "items": [
     {
+      "title": "'A bit strange' - Leclerc seeking outlier to catch Mercedes in Qatar",
+      "link": "https://www.skysports.com/f1/news/12433/13617143/charles-leclerc-seeking-outlier-as-ferrari-mclaren-red-bull-try-to-catch-mercedes-at-qatar-grand-prix",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-27T20:20:00.000Z",
+      "summary": "Charles Leclerc believes an “outlier” has given Mercedes a “massive” advantage at the Qatar Grand Prix, after Kimi Antonelli and George Russell dominated Friday’s practice sessions."
+    },
+    {
+      "title": "Antonelli: Pole battle will be close between me and Russell",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-27T19:50:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Audi lose Tsunoda appeal over Italian GP aborted start",
+      "link": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-27T19:25:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Big spins and Verstappen-Hamilton near miss in dramatic Qatar practice",
+      "link": "https://www.skysports.com/watch/video/13617299/qatar-grand-prix-practice-highlights",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-27T18:26:00.000Z",
+      "summary": "Highlights from Friday's practice sessions at the Qatar Grand Prix."
+    },
+    {
       "title": "Antonelli completes Qatar Friday practice double for dominant Mercedes",
       "link": "https://www.skysports.com/f1/news/12433/13617140/qatar-gp-kimi-antonelli-completes-friday-practice-double-as-mercedes-dominate-despite-red-flag-interruptions",
       "source": "Sky Sports F1",
       "publishedAt": "2026-11-27T18:20:00.000Z",
       "summary": "Kimi Antonelli topped his team-mate George Russell in both of Friday's practice sessions at the Qatar Grand Prix as Mercedes produced a dominant showing."
-    },
-    {
-      "title": "Qatar GP: Hamilton stops late on, Gasly in wild exit in Antonelli-topped practice LIVE!",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-27T16:37:00.000Z",
-      "summary": ""
     },
     {
       "title": "Antonelli dominates Qatar first practice",
@@ -69,20 +90,6 @@
       "source": "Sky Sports F1",
       "publishedAt": "2026-11-26T15:55:00.000Z",
       "summary": "George Russell says he was \"amused\" by Max Verstappen’s criticism of him after their feud reignited at the Las Vegas Grand Prix but admits it was \"avoidable\"."
-    },
-    {
-      "title": "'Unfinished business' - Bearman to continue with Haas in 2027",
-      "link": "https://www.skysports.com/watch/video/13616840/qatar-gp-oliver-bearman-says-he-has-unfinished-business-with-haas-in-2027",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-26T14:06:00.000Z",
-      "summary": "Oliver Bearman is delighted to once again be racing for Haas next season."
-    },
-    {
-      "title": "Unwell Alonso misses Qatar GP media day",
-      "link": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-26T10:00:00.000Z",
-      "summary": ""
     },
     {
       "title": "Bearman confirmed to stay at Haas for 2027",
@@ -190,13 +197,6 @@
       "summary": "Ferrari team boss Frederic Vasseur says he will hold further discussions with drivers Charles Leclerc and Lewis Hamilton after their latest tangle in the Las Vegas Grand Prix, admitting such incidents \"cannot continue\"."
     },
     {
-      "title": "Verstappen taunts Russell over Las Vegas GP error",
-      "link": "https://www.skysports.com/f1/news/12433/13615084/max-verstappen-says-george-russell-so-far-below-his-level-after-poking-fun-at-rival-for-major-error-during-las-vegas-gp",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-22T07:45:00.000Z",
-      "summary": "Max Verstappen says George Russell is \"so far below my level\" in a scathing response to the Mercedes driver after winning the Las Vegas Grand Prix."
-    },
-    {
       "title": "Super Formula Suzuka: Nojiri ends drought with win in season finale",
       "link": "https://www.autosport.com/super-formula/news/super-formula-suzuka-nojiri-ends-drought-with-win-in-season-finale/10876723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-SINGLE-SEATERS&utm_term=News&utm_content=uk",
       "source": "Autosport Single-Seaters",
@@ -225,74 +225,74 @@
       "summary": "After completing more than 100 kilometres during the first free practice session at the Mexico Grand Prix, Colton Herta appeared to have 40 superlicence points to his name, which would be enough to qualify for the docum…"
     },
     {
+      "title": "Are Mercedes the team to beat in Qatar?",
+      "link": "https://www.formula1.com/en/latest/article/are-mercedes-the-team-to-beat-in-qatar.6iRbqa3JJ85o0bWNYQTlTl",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "F1.com analyses the state of play after the first day of action at the Qatar Grand Prix."
+    },
+    {
+      "title": "Leclerc searching for answers after tricky Friday in Qatar",
+      "link": "https://www.formula1.com/en/latest/article/it-looks-like-a-very-difficult-weekend-leclerc-searching-for-answers-after-tricky-friday-in-qatar.34CxxcaWerPPLl84sU9cZq",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Charles Leclerc reflected on Ferrari’s lack of pace in Qatar as Diego Ioverno offered reassurance over Lewis Hamilton’s stoppage in second practice."
+    },
+    {
+      "title": "What the teams said – Friday in Qatar",
+      "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-qatar-2026.4NjrvUy3Zc6X6YN4i896S6",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "The drivers and teams report back on all the action from Friday practice at the Lusail International Circuit, ahead of the 2026 Qatar Grand Prix."
+    },
+    {
+      "title": "Verstappen and Red Bull left looking for car balance in Qatar",
+      "link": "https://www.formula1.com/en/latest/article/a-bit-of-a-difficult-day-verstappen-and-red-bull-left-looking-for-car-balance-after-friday-in-qatar.zvqj1nQ6dBT2PSxEzzKWP",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Max Verstappen admits that he and Red Bull had \"a bit of a difficult day\" during Friday practice ahead of the Qatar Grand Prix."
+    },
+    {
+      "title": "Racing Bulls lead midfield in Qatar after 'really big step'",
+      "link": "https://www.formula1.com/en/latest/article/racing-bulls-lead-the-midfield-charge-in-qatar-after-changes-pay-off.11wtPFM25qXm0dPTocDHRn",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Racing Bulls led the midfield pack after Friday practice ahead of the Qatar Grand Prix, as Liam Lawson and Arvid Lindblad finished Free Practice 2 in P9 and P10."
+    },
+    {
+      "title": "Best Qualifying bets for the Qatar Grand Prix",
+      "link": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-in-the-markets-for-the-qatar-grand-prix.2mQLEJUkKJHjLj8bHzNnaI",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Our expert betting writers share their top picks for Qualifying at the Lusail International Circuit."
+    },
+    {
+      "title": "'It's never nice' – Gasly explains dramatic FP2 spin",
+      "link": "https://www.formula1.com/en/latest/article/its-never-nice-gasly-explains-dramatic-high-speed-spin-during-qatar-practice.11hIcFNT6zuvEG0mwAggDn",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Pierre Gasly has revealed how a combination of low tyre temperatures and increased bottoming contributed to his FP2 spin in Qatar, as Alpine continue to battle handling difficulties."
+    },
+    {
+      "title": "Norris worried by McLaren’s deficit to Mercedes in Qatar",
+      "link": "https://www.formula1.com/en/latest/article/i-dont-think-weve-been-further-off-norris-worried-by-mclarens-deficit-to-mercedes-in-qatar.6mwnUPpxnOsIv6YJ7O6Lgm",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Lando Norris believes McLaren are fighting for P3 at the Qatar Grand Prix after Mercedes led the way in both of Friday’s practice sessions."
+    },
+    {
+      "title": "Antonelli wary of rivals despite topping Friday in Qatar",
+      "link": "https://www.formula1.com/en/latest/article/you-can-never-write-off-max-and-the-others-antonelli-wary-of-rivals-despite-topping-friday-in-qatar.2bsPJciIE8epCdw1AXd6zC",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Kimi Antonelli believes \"you can never write off Max [Verstappen] and the others\" despite the new World Champion and Mercedes dominating Friday practice ahead of the Qatar Grand Prix."
+    },
+    {
       "title": "Audi's Italian GP appeal over Tsunoda decision is dismissed",
       "link": "https://www.formula1.com/en/latest/article/audis-italian-grand-prix-appeal-over-tsunoda-restart-decision-is-dismissed.53YK6RxY4GWQ0WvgCUm3xh",
       "source": "Formula 1 Official",
       "publishedAt": null,
       "summary": "Audi's appeal has been dismissed following a hearing at the International Court of Appeal on November 25."
-    },
-    {
-      "title": "Antonelli tops FP2 in Qatar from Russell and Norris",
-      "link": "https://www.formula1.com/en/latest/article/fp2-antonelli-tops-extended-second-practice-from-russell-and-norris-in-qatar.6jAa2kcIAVqOPHW30oipfm",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Mercedes' Kimi Antonelli set the pace during second practice at the Qatar Grand Prix, a session that was extended after two earlier red flags."
-    },
-    {
-      "title": "F3 champion Ugochukwu takes pole on F2 debut in Qatar",
-      "link": "https://www.formula1.com/en/latest/article/f2-formula-3-champion-ugochukwu-takes-pole-position-on-series-debut-in-qatar.1JCyMKDD3cZcIEGj2c9Zfp",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Ugo Ugochukwu put in a stunning performance to take pole position on his Formula 2 debut in Qatar."
-    },
-    {
-      "title": "AS IT HAPPENED: Second practice for the Qatar Grand Prix",
-      "link": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-qatar-2026.73fYckKHdfedONjDTaSgeH",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Live coverage of Friday's second practice session at the 2026 Qatar Grand Prix."
-    },
-    {
-      "title": "Antonelli leads Russell in Qatar as Mercedes control FP1",
-      "link": "https://www.formula1.com/en/latest/article/fp1-antonelli-leads-russell-in-qatar-as-mercedes-control-opening-practice.3v7t8Oja9vAGkic9TxN7FR",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Kimi Antonelli finished fastest in Free Practice 1 ahead of the Qatar Grand Prix, the Mercedes driver beating team mate George Russell and Isack Hadjar's Red Bull."
-    },
-    {
-      "title": "AS IT HAPPENED: First practice for the Qatar GP",
-      "link": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-qatar-2026.4b9OJ86R4u41lS38JHHCuO",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Live coverage of Friday's first practice session for the 2026 Qatar Grand Prix."
-    },
-    {
-      "title": "All the stories that got the Qatar paddock talking",
-      "link": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-qatar-paddock-talking.7oePpDkNxzG1j0359UuyOo",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "F1.com's Mike Seymour looks back on the stories that got the paddock talking ahead of the 2026 Qatar Grand Prix."
-    },
-    {
-      "title": "What could shake up the Qatar betting markets?",
-      "link": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-qatar-grand-prix.4En8C9V0hDrmUFFiwxjmu1",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "After the lights go out in Lusail, clued-up bettors will be poised to make smart betting decisions in real time markets."
-    },
-    {
-      "title": "Russell reacts to Verstappen’s Las Vegas comments",
-      "link": "https://www.formula1.com/en/latest/article/it-was-quite-amusing-russell-shares-his-reaction-to-verstappens-las-vegas-comments.6sv6Xkop4lBcCxge8ZgxXv",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "After tensions between himself and Max Verstappen resurfaced following the Las Vegas Grand Prix, George Russell has given his take on how the situation stands."
-    },
-    {
-      "title": "Leclerc and Hamilton address aftermath of Las Vegas clash",
-      "link": "https://www.formula1.com/en/latest/article/were-all-disappointed-leclerc-and-hamilton-address-aftermath-of-las-vegas-clash.34d9bV1J0varyAnDCWPAjU",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "After contact limited them to the lower end of the points in Las Vegas, Charles Leclerc and Lewis Hamilton have insisted they’re working towards a solution to avoid further intra-team incidents."
     }
   ]
 }
