@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T09:55:05.982Z",
+  "updatedAt": "2026-11-28T18:00:08.919Z",
   "sources": [
     {
       "name": "Formula 1 Official",
@@ -22,6 +22,20 @@
   ],
   "items": [
     {
+      "title": "Qatar GP: Antonelli favourite for pole as qualifying begins LIVE!",
+      "link": "https://www.skysports.com/f1/live-blog/12433/13617474/f1-qatar-gp-qualifying-and-final-practice-updates-results-stream-and-highlights-from-formula-1-race-weekend-in-doha",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-28T17:10:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Antonelli fastest in Qatar final practice as Mercedes continue domination",
+      "link": "https://www.skysports.com/f1/news/12433/13617464/qatar-gp-kimi-antonelli-fastest-in-final-practice-from-george-russell-as-mercedes-domination-continues-ahead-of-qualifying",
+      "source": "Sky Sports F1",
+      "publishedAt": "2026-11-28T15:30:00.000Z",
+      "summary": "Kimi Antonelli outpaced Mercedes team-mate George Russell in final practice for the Qatar Grand Prix as the Silver Arrows continued to dominate."
+    },
+    {
       "title": "'A bit strange' - Leclerc seeking outlier to catch Mercedes in Qatar",
       "link": "https://www.skysports.com/f1/news/12433/13617143/charles-leclerc-seeking-outlier-as-ferrari-mclaren-red-bull-try-to-catch-mercedes-at-qatar-grand-prix",
       "source": "Sky Sports F1",
@@ -36,7 +50,7 @@
       "summary": ""
     },
     {
-      "title": "Audi lose Tsunoda appeal over Italian GP aborted start",
+      "title": "Audi lose appeal against Tsunoda over Italian GP aborted start",
       "link": "https://www.skysports.com/f1/live-blog/12433/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
       "source": "Sky Sports F1",
       "publishedAt": "2026-11-27T19:25:00.000Z",
@@ -176,25 +190,11 @@
       "summary": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech. The nine-time IndyCar race winner made the transition to …"
     },
     {
-      "title": "Wolff: Russell-Verstappen provocations a good factor of F1 entertainment",
-      "link": "https://www.skysports.com/f1/news/12433/13615087/max-verstappen-rivalry-with-george-russell-a-good-factor-of-f1-entertainment-says-mercedes-chief-toto-wolff",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-23T08:00:00.000Z",
-      "summary": "Mercedes chief Toto Wolff says the \"provocations\" between his driver George Russell and Red Bull's Max Verstappen are a \"good factor of the entertainment\" in Formula 1."
-    },
-    {
       "title": "Qatar GP: UK schedule and how to watch on Sky Sports",
       "link": "https://www.skysports.com/f1/news/12433/13613188/qatar-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-lusail-international-circuit-live-on-sky-sports",
       "source": "Sky Sports F1",
       "publishedAt": "2026-11-23T06:00:00.000Z",
       "summary": "Formula 1 heads to the Middle East for the last two rounds of the 2026 season with the Qatar Grand Prix hosting the penultimate event this weekend."
-    },
-    {
-      "title": "'This cannot continue' - Ferrari to hold fresh Leclerc-Hamilton talks after collision",
-      "link": "https://www.skysports.com/f1/news/12433/13615086/lewis-hamilton-charles-leclerc-clashes-cannot-continue-after-las-vegas-gp-with-frederic-vasseur-to-speak-to-drivers-again",
-      "source": "Sky Sports F1",
-      "publishedAt": "2026-11-23T06:00:00.000Z",
-      "summary": "Ferrari team boss Frederic Vasseur says he will hold further discussions with drivers Charles Leclerc and Lewis Hamilton after their latest tangle in the Las Vegas Grand Prix, admitting such incidents \"cannot continue\"."
     },
     {
       "title": "Super Formula Suzuka: Nojiri ends drought with win in season finale",
@@ -223,6 +223,27 @@
       "source": "Autosport Single-Seaters",
       "publishedAt": "2026-10-30T23:22:54.000Z",
       "summary": "After completing more than 100 kilometres during the first free practice session at the Mexico Grand Prix, Colton Herta appeared to have 40 superlicence points to his name, which would be enough to qualify for the docum…"
+    },
+    {
+      "title": "LIVE COVERAGE: All the action from Qualifying in Qatar",
+      "link": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-qatar-2026.7bvFDt8DoTdWy7ypbMykjN",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Live coverage of Saturday's Qualifying session for the 2026 Qatar Grand Prix."
+    },
+    {
+      "title": "Antonelli and Mercedes sweep fastest practice times in Qatar",
+      "link": "https://www.formula1.com/en/latest/article/fp3-antonelli-and-mercedes-sweep-fastest-practice-times-in-qatar.1mqTYzM7bK8pChk9n7szdO",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Kimi Antonelli and Mercedes claimed a clean sweep of fastest times after topping Free Practice 3 ahead of the Qatar Grand Prix, the World Champion beating team mate George Russell and Max Verstappen."
+    },
+    {
+      "title": "AS IT HAPPENED: All the action from final practice in Qatar",
+      "link": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-qatar-2026.tg0SyDKW7zSS95TpZSB3t",
+      "source": "Formula 1 Official",
+      "publishedAt": null,
+      "summary": "Live coverage of Saturday's third practice session for the 2026 Qatar Grand Prix."
     },
     {
       "title": "Are Mercedes the team to beat in Qatar?",
@@ -272,27 +293,6 @@
       "source": "Formula 1 Official",
       "publishedAt": null,
       "summary": "Pierre Gasly has revealed how a combination of low tyre temperatures and increased bottoming contributed to his FP2 spin in Qatar, as Alpine continue to battle handling difficulties."
-    },
-    {
-      "title": "Norris worried by McLaren’s deficit to Mercedes in Qatar",
-      "link": "https://www.formula1.com/en/latest/article/i-dont-think-weve-been-further-off-norris-worried-by-mclarens-deficit-to-mercedes-in-qatar.6mwnUPpxnOsIv6YJ7O6Lgm",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Lando Norris believes McLaren are fighting for P3 at the Qatar Grand Prix after Mercedes led the way in both of Friday’s practice sessions."
-    },
-    {
-      "title": "Antonelli wary of rivals despite topping Friday in Qatar",
-      "link": "https://www.formula1.com/en/latest/article/you-can-never-write-off-max-and-the-others-antonelli-wary-of-rivals-despite-topping-friday-in-qatar.2bsPJciIE8epCdw1AXd6zC",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Kimi Antonelli believes \"you can never write off Max [Verstappen] and the others\" despite the new World Champion and Mercedes dominating Friday practice ahead of the Qatar Grand Prix."
-    },
-    {
-      "title": "Audi's Italian GP appeal over Tsunoda decision is dismissed",
-      "link": "https://www.formula1.com/en/latest/article/audis-italian-grand-prix-appeal-over-tsunoda-restart-decision-is-dismissed.53YK6RxY4GWQ0WvgCUm3xh",
-      "source": "Formula 1 Official",
-      "publishedAt": null,
-      "summary": "Audi's appeal has been dismissed following a hearing at the International Court of Appeal on November 25."
     }
   ]
 }
